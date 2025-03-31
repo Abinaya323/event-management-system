@@ -1,7 +1,6 @@
-/* General Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  background: linear-gradient(to right, #007bff, #0056b3);
   color: #333;
   margin: 0;
   padding: 0;
@@ -13,7 +12,7 @@ h2 {
 
 /* Navbar Styles */
 .navbar {
-  background: linear-gradient(to right, #ff6f61, #de5499);
+  background: #007bff;
   width: 250px;
   height: 100vh;
   position: fixed;
